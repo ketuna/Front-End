@@ -44,7 +44,7 @@ async function getUsers()
     }
     catch (error)
     {
-        users_.innerHTML = "მონაცემების მიღება ვერ მოხერხდა"
+        users_.innerHTML = "მონაცემების წაკითხვა ვერ მოხერხდა"
     }
 
 
